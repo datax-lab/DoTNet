@@ -35,7 +35,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.viewcode",
     "sphinx.ext.mathjax",
-    "nbsphinx",
 ]
 
 napoleon_use_ivar = True
