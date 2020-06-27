@@ -19,7 +19,7 @@ Installing DoTNet
 ``DoTNet`` is available through PyPI and can easily be installed with a
 pip install::
 
-    pip install DoTNet
+    pip install DoT_Net
 
 The PyPI version is updated regularly, however for the latest update, you
 should clone from GitHub and install it directly::
