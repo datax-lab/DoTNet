@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-DoTNet: Document Layout Classification Using Texture-based CNN
+DoT-Net: Document Layout Classification Using Texture-based CNN
 ==================================
-DoTNet is for converting unstructured OCR documents into structured key value pairs.
+DoT-Net is for converting unstructured OCR documents into structured key value pairs.
 
 
 Key technologies used
@@ -23,7 +23,7 @@ Key technologies used
 
 Credit
 ----------
-Development of DoTNet is carried out in the `DataX lab <http://dataxlab.org/index.php>`_ at University of Nevada, Las Vegas (UNLV).
+Development of DoT-Net is carried out in the `DataX lab <http://dataxlab.org/index.php>`_ at University of Nevada, Las Vegas (UNLV).
 
-If you use DoTNet in your research, generally it is appropriate to cite the following paper:
+If you use DoT-Net in your research, generally it is appropriate to cite the following paper:
 S. Kosaraju, M. Masum, N. Tsaku, P. Patel, T. Bayramoglu, G. Modgil, and M. Kang†, "DoT-Net: Document Layout Classification Using Texture-based CNN", The 15th International Conference on Document Analysis and Recognition (ICDAR), 2019
