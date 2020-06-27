@@ -13,7 +13,7 @@ Required packages:
 - Keras
 - Tensorflow
 
-Installing DoTNet
+Installing DoT-Net
 ----------------------
 
 ``DoTNet`` is available through PyPI and can easily be installed with a
