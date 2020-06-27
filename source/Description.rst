@@ -3,11 +3,11 @@ Description
 
 Machine learning architectures
 ----------------------------------
-- DoTNet: Novel and innovative CNN architecture to classify and segment the text elements.
+- DoT-Net: Novel and innovative CNN architecture to classify and segment the text elements.
 - RFClassifier: Ensenmbled deep learning architecture which used to detect TOC pages.
 
 	
-Code follow for DoTNet
+Code follow for DoT-Net
 --------------------------
 - GETO2.0.py: The interface for our framework. Each page in input pdf file is converted to image using wand library. 
 			
